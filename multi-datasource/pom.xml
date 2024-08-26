@@ -14,7 +14,7 @@
     </parent>
 
     <properties>
-        <swagger.version>2.7.0</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <mysql.version>5.1.40</mysql.version>
     </properties>
 
